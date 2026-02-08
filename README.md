@@ -20,9 +20,9 @@
 <div align="center">
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════════╗
+╔═════════════════════════════════════════════════════════════════════════════════╗
 ║   > SYSTEM BREACH DETECTED   > ACCESS GRANTED: INFINITYPAIIN  > CREW: ch0wn3rs  ║
-╚═══════════════════════════════════════════════════════════════════╝
+╚═════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=Welcome+to+the+Matrix...;Pwn+%7C+Reversing+%26+Assembly+%E2%80%A2+ch0wn3rs;Always+Hunting+for+Zero-Days.)](https://git.io/typing-svg)
@@ -191,15 +191,15 @@ santacrz@matrix:~$ grep -r "FLAG" /var/log/ctf/
 <div style="border: 2px solid #00FF41; border-radius: 4px; padding: 14px; background: #0D0D0D;">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│ CREW STATUS .................................................   │
-├─────────────────────────────────────────────────────────────────┤
-│ 2026  Overall: #65  │  45.925 pts  │  Country: #1               │
-│ Gigs: Nullcon Goa HackIM 2026 (#12) · PascalCTF 2026 (#63)     │
-├─────────────────────────────────────────────────────────────────┤
-│ ROSTER: Fu11shoot · 02loveslollipop · Neyi21 · hrcamilo11 ·    │
-│         INFINITYPAIIN (Pwn / Reversing · Assembly)              │
-└─────────────────────────────────────────────────────────────────┘
+                      ┌─────────────────────────────────────────────────────────────────┐
+                      │ CREW STATUS .................................................   │
+                      ├─────────────────────────────────────────────────────────────────┤
+                      │ 2026  Overall: #65  │  45.925 pts  │  Country: #1               │
+                      │ Gigs: Nullcon Goa HackIM 2026 (#12) · PascalCTF 2026 (#63)     │
+                      ├─────────────────────────────────────────────────────────────────┤
+                      │ ROSTER: Fu11shoot · 02loveslollipop · Neyi21 · hrcamilo11 ·    │
+                      │         INFINITYPAIIN (Pwn / Reversing · Assembly)              │
+                      └─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
