@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100%" alt="net" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V0amtucHc0cjU0MG9vOGR3c2dvam9hdzd3ZXQ1bjM0bzN4bHp1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fRwPZtbWkkX6/giphy.gif" width="100%" alt="hacker typing" />
 
 </div>
 
@@ -21,61 +21,59 @@
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════╗
-║  ⚡ NETRUNNER DETECTED  ⚡  ACCESS: INFINITYPAIIN  ⚡  CREW: ch0wn3rs  ║
+║   > SYSTEM BREACH DETECTED   > ACCESS GRANTED: INFINITYPAIIN  > CREW: ch0wn3rs  ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FCEF00&center=true&vCenter=true&width=620&lines=Wake+up%2C+Samurai.+We%27ve+got+binaries+to+crack.;Pwn+%7C+Reversing+%26+Assembly+%E2%80%A2+ch0wn3rs;Night+City.+One+zero-day+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=620&lines=Welcome+to+the+Matrix...;Pwn+%7C+Reversing+%26+Assembly+%E2%80%A2+ch0wn3rs;Always+Hunting+for+Zero-Days.)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" alt="netrun" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM3czZ1dmdoaDViamFsN3kxOTVwb2Y3cmdvY2l6cm5icmxxYmFjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif" width="320" alt="matrix" />
 
 </div>
 
 ---
 
-## ⚡ `NETRUNNER PROFILE` // whoami
+## 👾 `whoami`
 
 ```bash
-> SCAN TARGET: INFINITYPAIIN
-> LIFEPATH: Netrunner
-> CREW: ch0wn3rs
-> STATUS: [ ACTIVE ]
+santacrz@matrix:~$ cat /etc/shadow | grep santacrz
+> TARGET: INFINITYPAIIN  |  CREW: ch0wn3rs  |  STATUS: [ ACTIVE ]
 ```
 
 ```javascript
-// Night City · Netrunner config
-const profile = {
-    handle: "INFINITYPAIIN",
-    realName: "SanTacrZ",
-    role: "Pwn · Reversing · Assembly",
-    specialty: "Binary exploitation · ICE breaking · Reverse engineering",
-    crew: "ch0wn3rs",
-    chrome: ["GDB", "radare2", "Ghidra", "ASM", "C", "Python"],
-    sideGigs: ["Django", "React", "Next.js", "Finance agents (C)"]
-};
-// Never stop fighting for what you believe in. — V
+class CyberWarrior {
+    constructor() {
+        this.username = "SanTacrZ";
+        this.handle = "INFINITYPAIIN";
+        this.role = "Pwn · Reversing · Assembly specialist";
+        this.crew = "ch0wn3rs";
+        this.arsenal = ["GDB", "radare2", "Ghidra", "ASM", "C", "Python"];
+        this.stack = ["Django", "React", "Next.js", "Finance agents (C)"];
+    }
+    getCurrentStatus() { return "root@santacrz:~# sudo su -"; }
+}
 ```
 
 ---
 
-## 🔶 `QUICKHACK` // live script
+## 🔶 `LIVE SCRIPT` // decode
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" style="border: 2px solid #FCEF00; border-radius: 4px; padding: 18px; background: #0D0D0D; box-shadow: 0 0 20px rgba(252,239,0,0.15);">
+<td align="center" style="border: 2px solid #00FF41; border-radius: 4px; padding: 18px; background: #0D0D0D; box-shadow: 0 0 20px rgba(0,255,65,0.2);">
 
-**$ quickhack --target binary**
+**$ ./decode --target binary**
 
-<pre style="color:#00F0FF; font-family: monospace; font-size: 13px; margin: 0;">
+<pre style="color:#00FF41; font-family: monospace; font-size: 13px; margin: 0;">
 <span style="color:#6a9955;">[ SCAN ] Loading target...</span>
-<span style="color:#FCEF00;">[ BREACH ] Entry point: 0x00401000</span>
-<span style="color:#00F0FF;">[ UPLOAD ] Sections: .text .data .plt.got</span>
+<span style="color:#00FF41;">[ BREACH ] Entry point: 0x00401000</span>
+<span style="color:#00FF41;">[ UPLOAD ] Sections: .text .data .plt.got</span>
 <span style="color:#6a9955;">[ SCAN ] Disassembling main...</span>
-<span style="color:#FF2A6D;">[ CRITICAL ] FLAG decoder at 0x00401234</span>
-<span style="color:#FCEF00;">[ EXECUTE ] Exploit chain running...</span>
-<span style="color:#00F0FF;">[ DONE ] Access granted. Flatline avoided.</span>
+<span style="color:#00cc33;">[ CRITICAL ] FLAG decoder at 0x00401234</span>
+<span style="color:#00FF41;">[ EXECUTE ] Exploit chain running...</span>
+<span style="color:#00FF41;">[ DONE ] Access granted. Flag captured.</span>
 </pre>
 
 </td>
@@ -86,26 +84,26 @@ const profile = {
 
 ---
 
-## 🟡 `DISASSEMBLY` // ice breaker
+## 🟢 `DISASSEMBLY` // x86-64
 
 <div>
 
-<table width="100%" style="border-collapse: collapse; border: 2px solid #00F0FF; border-radius: 4px;">
+<table width="100%" style="border-collapse: collapse; border: 2px solid #00FF41; border-radius: 4px;">
 <tr style="background: #0D0D0D;">
-<td style="border: 1px solid #00F0FF; padding: 12px; color: #FCEF00; font-family: monospace; font-size: 12px;">; INFINITYPAIIN · Reversing specialist · Night City</td>
+<td style="border: 1px solid #00FF41; padding: 12px; color: #00FF41; font-family: monospace; font-size: 12px;">; INFINITYPAIIN · Reversing specialist · matrix</td>
 </tr>
 <tr style="background: #0D0D0D;">
-<td style="border: 1px solid #00F0FF; padding: 12px; font-family: monospace; font-size: 12px;">
+<td style="border: 1px solid #00FF41; padding: 12px; font-family: monospace; font-size: 12px;">
 <pre style="margin:0;">
-<span style="color:#6a9955;">   0x00401234</span>  <span style="color:#00F0FF;">push   rbp</span>
-<span style="color:#6a9955;">   0x00401235</span>  <span style="color:#00F0FF;">mov    rbp, rsp</span>
-<span style="color:#6a9955;">   0x00401238</span>  <span style="color:#00F0FF;">sub    rsp, 0x20</span>
-<span style="color:#6a9955;">   0x0040123c</span>  <span style="color:#FCEF00;">mov    rax, qword [obj.flag]</span>
-<span style="color:#6a9955;">   0x00401243</span>  <span style="color:#00F0FF;">mov    rdi, rax</span>
-<span style="color:#6a9955;">   0x00401246</span>  <span style="color:#FF2A6D;">call   sym.imp.decode</span>
-<span style="color:#6a9955;">   0x0040124b</span>  <span style="color:#00F0FF;">mov    eax, 0</span>
-<span style="color:#6a9955;">   0x00401250</span>  <span style="color:#00F0FF;">leave</span>
-<span style="color:#6a9955;">   0x00401251</span>  <span style="color:#00F0FF;">ret</span>
+<span style="color:#6a9955;">   0x00401234</span>  <span style="color:#00FF41;">push   rbp</span>
+<span style="color:#6a9955;">   0x00401235</span>  <span style="color:#00FF41;">mov    rbp, rsp</span>
+<span style="color:#6a9955;">   0x00401238</span>  <span style="color:#00FF41;">sub    rsp, 0x20</span>
+<span style="color:#6a9955;">   0x0040123c</span>  <span style="color:#00FF41;">mov    rax, qword [obj.flag]</span>
+<span style="color:#6a9955;">   0x00401243</span>  <span style="color:#00FF41;">mov    rdi, rax</span>
+<span style="color:#6a9955;">   0x00401246</span>  <span style="color:#00cc33;">call   sym.imp.decode</span>
+<span style="color:#6a9955;">   0x0040124b</span>  <span style="color:#00FF41;">mov    eax, 0</span>
+<span style="color:#6a9955;">   0x00401250</span>  <span style="color:#00FF41;">leave</span>
+<span style="color:#6a9955;">   0x00401251</span>  <span style="color:#00FF41;">ret</span>
 </pre>
 </td>
 </tr>
@@ -115,28 +113,28 @@ const profile = {
 
 ---
 
-## 🔷 `CHROMED SKILLS` // cyberware
+## ⚡ `ARSENAL` // LOADED MODULES
 
 ```bash
-> EQUIPPED // OFFENSIVE · REVERSING · ASM
+santacrz@matrix:~$ ls -la /opt/arsenal/
 ```
 
 <table width="100%">
 <tr>
 <td width="50%" style="vertical-align: top;">
 
-<div style="border: 2px solid #FF2A6D; border-radius: 4px; padding: 14px; background: #0D0D0D;">
+<div style="border: 2px solid #00cc33; border-radius: 4px; padding: 14px; background: #0D0D0D;">
 
-**<span style="color:#FCEF00;">OFFENSIVE · REVERSING · ASM</span>**
+**<span style="color:#00FF41;">OFFENSIVE · REVERSING · ASM</span>**
 
 <pre style="font-size: 12px; margin: 0;">
-<span style="color:#00F0FF;">[████████████████████░]</span> <span style="color:#FCEF00;">Pwn ...................... 95%</span>
-<span style="color:#00F0FF;">[████████████████████░]</span> <span style="color:#FF2A6D;">Reversing ................ 92%</span> ◀ specialist
-<span style="color:#00F0FF;">[████████████████████░]</span> <span style="color:#FF2A6D;">Assembly (x86/ARM) ........ 90%</span> ◀ specialist
-<span style="color:#00F0FF;">[████████████████████░]</span> <span style="color:#FCEF00;">C ........................ 90%</span>
-<span style="color:#00F0FF;">[██████████████████░░░]</span> <span style="color:#00F0FF;">GDB / radare2 / Ghidra .... 88%</span>
-<span style="color:#00F0FF;">[██████████████████░░░]</span> <span style="color:#FCEF00;">Exploit dev .............. 85%</span>
-<span style="color:#00F0FF;">[██████████████████░░░]</span> <span style="color:#FCEF00;">Bash ..................... 85%</span>
+<span style="color:#00FF41;">[████████████████████░]</span> <span style="color:#00FF41;">Pwn ...................... 95%</span>
+<span style="color:#00FF41;">[████████████████████░]</span> <span style="color:#00cc33;">Reversing ................ 92%</span> ◀ specialist
+<span style="color:#00FF41;">[████████████████████░]</span> <span style="color:#00cc33;">Assembly (x86/ARM) ........ 90%</span> ◀ specialist
+<span style="color:#00FF41;">[████████████████████░]</span> <span style="color:#00FF41;">C ........................ 90%</span>
+<span style="color:#00FF41;">[██████████████████░░░]</span> <span style="color:#00FF41;">GDB / radare2 / Ghidra .... 88%</span>
+<span style="color:#00FF41;">[██████████████████░░░]</span> <span style="color:#00FF41;">Exploit dev .............. 85%</span>
+<span style="color:#00FF41;">[██████████████████░░░]</span> <span style="color:#00FF41;">Bash ..................... 85%</span>
 </pre>
 
 </div>
@@ -144,17 +142,17 @@ const profile = {
 </td>
 <td width="50%" style="vertical-align: top;">
 
-<div style="border: 2px solid #00F0FF; border-radius: 4px; padding: 14px; background: #0D0D0D;">
+<div style="border: 2px solid #00FF41; border-radius: 4px; padding: 14px; background: #0D0D0D;">
 
-**<span style="color:#00F0FF;">WEB & BACKEND</span>**
+**<span style="color:#00FF41;">WEB & BACKEND</span>**
 
 <pre style="font-size: 12px; margin: 0;">
-<span style="color:#00F0FF;">[██████████████████░░░]</span> <span style="color:#FCEF00;">Python ................... 88%</span>
-<span style="color:#00F0FF;">[████████████████░░░░░]</span> <span style="color:#00F0FF;">Django ................... 80%</span>
-<span style="color:#00F0FF;">[██████████████████░░░]</span> <span style="color:#FCEF00;">React / Next.js .......... 82%</span>
-<span style="color:#00F0FF;">[████████████████░░░░░]</span> <span style="color:#00F0FF;">Node.js .................. 75%</span>
-<span style="color:#00F0FF;">[██████████████████░░░]</span> <span style="color:#FCEF00;">PostgreSQL ................ 85%</span>
-<span style="color:#00F0FF;">[████████████████░░░░░]</span> <span style="color:#00F0FF;">Java ..................... 78%</span>
+<span style="color:#00FF41;">[██████████████████░░░]</span> <span style="color:#00FF41;">Python ................... 88%</span>
+<span style="color:#00FF41;">[████████████████░░░░░]</span> <span style="color:#00FF41;">Django ................... 80%</span>
+<span style="color:#00FF41;">[██████████████████░░░]</span> <span style="color:#00FF41;">React / Next.js .......... 82%</span>
+<span style="color:#00FF41;">[████████████████░░░░░]</span> <span style="color:#00FF41;">Node.js .................. 75%</span>
+<span style="color:#00FF41;">[██████████████████░░░]</span> <span style="color:#00FF41;">PostgreSQL ................ 85%</span>
+<span style="color:#00FF41;">[████████████████░░░░░]</span> <span style="color:#00FF41;">Java ..................... 78%</span>
 </pre>
 
 </div>
@@ -165,33 +163,32 @@ const profile = {
 
 <div align="center">
 
-**<span style="color:#FCEF00;">TOOLCHAIN</span>** <span style="color:#6a9955;">//</span>  
+**<span style="color:#00FF41;">TOOLCHAIN</span>** <span style="color:#6a9955;">//</span>  
 `ASM` `C` `Python` `GDB` `radare2` `Ghidra` `Django` `React` `Next.js` `PostgreSQL` `Docker` `Kali`
 
 </div>
 
 ---
 
-## ⚡ `CREW LINK` // ch0wn3rs
+## 🏴‍☠️ `CTF SQUAD` // ch0wn3rs
 
 ```bash
-> CONNECTING TO CREW NETWORK...
-> LINK ESTABLISHED: ch0wn3rs
+santacrz@matrix:~$ grep -r "FLAG" /var/log/ctf/
 ```
 
 <div align="center">
 
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320" alt="access" />
 
-**<span style="color:#FCEF00;">ch0wn3rs</span>** <span style="color:#6a9955;">//</span> *Elite Cybersecurity Club*
+**<span style="color:#00FF41;">ch0wn3rs</span>** <span style="color:#6a9955;">//</span> *Elite Cybersecurity Club*
 
-[![CTFtime](https://img.shields.io/badge/CTFtime-Ch0wn3rs_%23408704-00F0FF?style=for-the-badge&labelColor=0D0D0D)](https://ctftime.org/team/408704)
-[![Website](https://img.shields.io/badge/Website-ch0wn3rs.ninja-FCEF00?style=for-the-badge&labelColor=0D0D0D)](https://ch0wn3rs.ninja/)
+[![CTFtime](https://img.shields.io/badge/CTFtime-Ch0wn3rs_%23408704-00ff41?style=for-the-badge&labelColor=0d1117)](https://ctftime.org/team/408704)
+[![Website](https://img.shields.io/badge/Website-ch0wn3rs.ninja-00ff41?style=for-the-badge&labelColor=0d1117)](https://ch0wn3rs.ninja/)
 <a href="https://ctftime.org/team/408704/"><img src="https://ctftime.org/static/img/s/32x32.png" width="28" height="28" alt="CTFtime"/></a>
 
 </div>
 
-<div style="border: 2px solid #FCEF00; border-radius: 4px; padding: 14px; background: #0D0D0D;">
+<div style="border: 2px solid #00FF41; border-radius: 4px; padding: 14px; background: #0D0D0D;">
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -216,62 +213,62 @@ const profile = {
 
 ---
 
-## 📊 `STATS` // lifepath
+## 📊 `SYSTEM METRICS`
 
 ```bash
-> PULLING REPO STATS...
+santacrz@matrix:~$ cat /proc/github_stats
 ```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanTacrZ&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FCEF00&text_color=00F0FF&icon_color=FF2A6D&border_color=FCEF00&hide_border=false" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanTacrZ&theme=dark&background=0D0D0D&ring=FCEF00&fire=FF2A6D&currStreakLabel=FCEF00&border=FCEF00&currStreakNum=00F0FF&sideNums=00F0FF&sideLabels=FCEF00&dates=6a9955&hide_border=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTacrZ&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FCEF00&text_color=00F0FF&border_color=FF2A6D&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=SanTacrZ&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanTacrZ&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41&currStreakNum=00ff41&sideNums=00ff41&sideLabels=00ff41&dates=00ff41&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTacrZ&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=00ff41&border_color=00ff41&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔶 `ACTIVE GIGS`
+## 💀 `ACTIVE PROJECTS`
 
 ```bash
-> JOBS IN PROGRESS
+santacrz@matrix:~$ ps aux | grep santacrz
 ```
 
-<table style="border: 2px solid #00F0FF; border-radius: 4px; border-collapse: collapse;">
+<table style="border: 2px solid #00FF41; border-radius: 4px; border-collapse: collapse;">
 <tr style="background: #0D0D0D;">
-<td style="border: 1px solid #FCEF00; padding: 10px 14px; color: #FCEF00; font-weight: bold;">PID</td>
-<td style="border: 1px solid #FCEF00; padding: 10px 14px; color: #FCEF00; font-weight: bold;">GIG</td>
-<td style="border: 1px solid #FCEF00; padding: 10px 14px; color: #00F0FF;">STATUS</td>
+<td style="border: 1px solid #00FF41; padding: 10px 14px; color: #00FF41; font-weight: bold;">PID</td>
+<td style="border: 1px solid #00FF41; padding: 10px 14px; color: #00FF41; font-weight: bold;">PROJECT</td>
+<td style="border: 1px solid #00FF41; padding: 10px 14px; color: #00FF41;">STATUS</td>
 </tr>
 <tr style="background: #0D0D0D;">
-<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FF2A6D;">1337</td>
-<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #00F0FF;">Pwn & Reversing (ASM)</td>
-<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FCEF00;">ACTIVE</td>
+<td style="border: 1px solid #00FF41; padding: 8px 14px; color: #00cc33;">1337</td>
+<td style="border: 1px solid #00FF41; padding: 8px 14px; color: #00FF41;">Pwn & Reversing (ASM)</td>
+<td style="border: 1px solid #00FF41; padding: 8px 14px; color: #00FF41;">ACTIVE</td>
 </tr>
 <tr style="background: #0D0D0D;">
-<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FF2A6D;">31337</td>
-<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #00F0FF;">CTF · ch0wn3rs</td>
-<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FCEF00;">ACTIVE</td>
+<td style="border: 1px solid #00FF41; padding: 8px 14px; color: #00cc33;">31337</td>
+<td style="border: 1px solid #00FF41; padding: 8px 14px; color: #00FF41;">CTF · ch0wn3rs</td>
+<td style="border: 1px solid #00FF41; padding: 8px 14px; color: #00FF41;">ACTIVE</td>
 </tr>
 <tr style="background: #0D0D0D;">
-<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FF2A6D;">8080</td>
-<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #00F0FF;">Django + React / Next</td>
-<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FCEF00;">ACTIVE</td>
+<td style="border: 1px solid #00FF41; padding: 8px 14px; color: #00cc33;">8080</td>
+<td style="border: 1px solid #00FF41; padding: 8px 14px; color: #00FF41;">Django + React / Next</td>
+<td style="border: 1px solid #00FF41; padding: 8px 14px; color: #00FF41;">ACTIVE</td>
 </tr>
 <tr style="background: #0D0D0D;">
-<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FF2A6D;">9000</td>
-<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #00F0FF;">Finance agents (C)</td>
-<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FCEF00;">ACTIVE</td>
+<td style="border: 1px solid #00FF41; padding: 8px 14px; color: #00cc33;">9000</td>
+<td style="border: 1px solid #00FF41; padding: 8px 14px; color: #00FF41;">Finance agents (C)</td>
+<td style="border: 1px solid #00FF41; padding: 8px 14px; color: #00FF41;">ACTIVE</td>
 </tr>
 </table>
 
 ---
 
-## 🌐 `NIGHT CITY CONNECTIONS`
+## 🌐 `NETWORK CONNECTIONS`
 
 ```bash
-> CONTACTS // NETWORK
+santacrz@matrix:~$ netstat -tuln | grep ESTABLISHED
 ```
 
 <div align="center">
@@ -286,42 +283,50 @@ const profile = {
 
 ---
 
-## 💬 `CODE OF THE STREET`
+## 🎯 `PHILOSOPHY`
 
-```javascript
-// Night City · 2077
-const motto = [
-    "Break it before they do.",
-    "Security through obscurity is no security.",
-    "We are the glitch in the system.",
-    "Never stop fighting for what you believe in."
-];
+```python
+#!/usr/bin/env python3
+class HackerMindset:
+    def __init__(self):
+        self.principles = [
+            "Break it before someone else does",
+            "Security through obscurity is no security",
+            "We are the glitch in the system"
+        ]
+    def get_motto(self):
+        return "root@matrix:~# echo 'The code is the law'"
 ```
 
-> **<span style="color:#FCEF00;">"In a world of 1s and 0s, we are the exception handlers."</span>**  
-> <span style="color:#00F0FF;">— INFINITYPAIIN</span>
+> **<span style="color:#00FF41;">"In a world of 1s and 0s, we are the exception handlers."</span>**  
+> <span style="color:#00FF41;">— SanTacrZ / INFINITYPAIIN</span>
 
 ---
 
-## 📈 `CONTRIBUTION GRAPH`
+## 🔥 `CONTRIBUTION GRAPH`
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanTacrZ&theme=github-dark&bg_color=0D0D0D&color=FCEF00&line=00F0FF&point=FF2A6D&area=true&hide_border=false)
+```bash
+santacrz@matrix:~$ git log --graph --oneline --all
+```
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanTacrZ&theme=github-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## ⚠️ `WARNING` // unauthorized access
+## 🚨 `SECURITY NOTICE`
 
-<div style="border: 2px solid #FF2A6D; border-radius: 4px; padding: 16px; background: #0D0D0D;">
+<div style="border: 2px solid #00FF41; border-radius: 4px; padding: 16px; background: #0D0D0D;">
 
-<pre style="margin:0; color:#FCEF00;">
+<pre style="margin:0; color:#00FF41;">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  ⚡ AUTHORIZED PERSONNEL ONLY  ⚡                     ┃
-┃  Unauthorized access → flatline. Just kidding. PR.  ┃
-┃  You made it this far? Preem. Let's collab, choomba.┃
+┃  ⚠️  WARNING: AUTHORIZED PERSONNEL ONLY             ┃
+┃  This profile contains classified intel.           ┃
+┃  Unauthorized access → pull request. You're cool.  ┃
+┃  Want to collaborate? Hit me up. 🤝                ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
@@ -329,16 +334,16 @@ const motto = [
 
 <div align="center">
 
-**Wake up, Samurai. Stay curious. Stay ethical. Stay pwning.**
+**Thanks for visiting. Stay curious, stay ethical, stay pwning.**
 
 **ch0wn3rs** · [ch0wn3rs.ninja](https://ch0wn3rs.ninja/) · [CTFtime](https://ctftime.org/team/408704)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SanTacrZ&color=FCEF00&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=SanTacrZ&color=00ff41&style=flat-square)
 
 </div>
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FCEF00,50:00F0FF,100:FF2A6D&height=90&section=footer&text=NIGHT+CITY+2077&fontSize=18&fontColor=0D0D0D&animation=twinkling)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM3czZ1dmdoaDViamFsN3kxOTVwb2Y3cmdvY2l6cm5icmxxYmFjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif" width="100%" alt="matrix" />
 
 </div>
