@@ -1,214 +1,277 @@
+<div align="center">
+
+<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100%" alt="net" />
+
+</div>
+
+<div align="center">
+
 ```
-   ██████  █████  ███    ██ ████████  █████   ██████ ██████  ███████ 
-  ██      ██   ██ ████   ██    ██    ██   ██ ██      ██   ██    ███  
-  ███████ ███████ ██ ██  ██    ██    ███████ ██      ██████    ███   
-       ██ ██   ██ ██  ██ ██    ██    ██   ██ ██      ██   ██  ███    
-  ██████  ██   ██ ██   ████    ██    ██   ██  ██████ ██   ██ ███████ 
+  ███████╗ █████╗ ███╗   ██╗████████╗ █████╗  ██████╗██████╗ ███████╗
+  ██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔══██╗██╔════╝██╔══██╗╚════██║
+  ███████╗███████║██╔██╗ ██║   ██║   ███████║██║     ██████╔╝    ██╔╝
+  ╚════██║██╔══██║██║╚██╗██║   ██║   ██╔══██║██║     ██╔══██╗   ██╔╝ 
+  ███████║██║  ██║██║ ╚████║   ██║   ██║  ██║╚██████╗██║  ██║   ██║  
+  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝  
 ```
+
+</div>
 
 <div align="center">
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   > SYSTEM BREACH DETECTED                                    ║
-║   > INITIALIZING MATRIX PROTOCOL...                           ║
-║   > LOADING CONSCIOUSNESS...                                  ║
-║   > ACCESS GRANTED: INFINITYPAIIN @ ch0wn3rs                  ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║  ⚡ NETRUNNER DETECTED  ⚡  ACCESS: INFINITYPAIIN  ⚡  CREW: ch0wn3rs  ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Pwn+Specialist+%7C+Reversing+in+Progress;CTF+Player+%40+ch0wn3rs;Django+%26+React+%7C+Finance+Agents+in+C;Last+Year+CS+Student+%7C+Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FCEF00&center=true&vCenter=true&width=620&lines=Wake+up%2C+Samurai.+We%27ve+got+binaries+to+crack.;Pwn+%7C+Reversing+%26+Assembly+%E2%80%A2+ch0wn3rs;Night+City.+One+zero-day+at+a+time.)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" alt="netrun" />
 
 </div>
 
 ---
 
-## 👾 `whoami`
+## ⚡ `NETRUNNER PROFILE` // whoami
 
 ```bash
-santacrz@matrix:~$ cat /etc/shadow | grep santacrz
+> SCAN TARGET: INFINITYPAIIN
+> LIFEPATH: Netrunner
+> CREW: ch0wn3rs
+> STATUS: [ ACTIVE ]
 ```
 
 ```javascript
-class CyberWarrior {
-    constructor() {
-        this.username = "SanTacrZ";
-        this.alias = "INFINITYPAIIN";
-        this.role = "Security Researcher & Pwn Enthusiast";
-        this.team = "ch0wn3rs";
-        this.team_url = "https://ch0wn3rs.ninja/";
-        this.location = "localhost://matrix";
-        this.motivation = "Break things to make them stronger";
-    }
-
-    getCurrentStatus() {
-        return {
-            strong: ["Pwn", "Binary Exploitation", "Memory Corruption"],
-            learning: ["Reverse Engineering", "Advanced Exploit Dev"],
-            stack: ["Python", "Java", "Django", "React", "Next.js", "PostgreSQL", "C"],
-            side_ops: ["Finance agents for brokers (C)", "CTF with ch0wn3rs"],
-            currently_pwning: "Everything I can get my hands on 👾"
-        };
-    }
-
-    getSkillLevel() {
-        return "root@santacrz:~# sudo su -";
-    }
-}
+// Night City · Netrunner config
+const profile = {
+    handle: "INFINITYPAIIN",
+    realName: "SanTacrZ",
+    role: "Pwn · Reversing · Assembly",
+    specialty: "Binary exploitation · ICE breaking · Reverse engineering",
+    crew: "ch0wn3rs",
+    chrome: ["GDB", "radare2", "Ghidra", "ASM", "C", "Python"],
+    sideGigs: ["Django", "React", "Next.js", "Finance agents (C)"]
+};
+// Never stop fighting for what you believe in. — V
 ```
 
 ---
 
-## 🔴 `SYSTEM ANALYSIS`
+## 🔶 `QUICKHACK` // live script
 
 <div align="center">
 
-```
-┌─[root@matrix]─[~/SanTacrZ]
-└──╼ $ nmap -sV -A localhost
+<table>
+<tr>
+<td align="center" style="border: 2px solid #FCEF00; border-radius: 4px; padding: 18px; background: #0D0D0D; box-shadow: 0 0 20px rgba(252,239,0,0.15);">
 
-Starting Nmap scan...
-Port     State    Service       Version
-──────────────────────────────────────────────
-22/tcp   open     ssh           OpenSSH 8.9
-80/tcp   open     http          nginx 1.21
-443/tcp  open     ssl/https     Node.js
-1337/tcp open     waste         Elite-Level
-3000/tcp open     backdoor      INFINITYPAIIN-Shell
-8080/tcp open     http-proxy    React.js
-```
+**$ quickhack --target binary**
+
+<pre style="color:#00F0FF; font-family: monospace; font-size: 13px; margin: 0;">
+<span style="color:#6a9955;">[ SCAN ] Loading target...</span>
+<span style="color:#FCEF00;">[ BREACH ] Entry point: 0x00401000</span>
+<span style="color:#00F0FF;">[ UPLOAD ] Sections: .text .data .plt.got</span>
+<span style="color:#6a9955;">[ SCAN ] Disassembling main...</span>
+<span style="color:#FF2A6D;">[ CRITICAL ] FLAG decoder at 0x00401234</span>
+<span style="color:#FCEF00;">[ EXECUTE ] Exploit chain running...</span>
+<span style="color:#00F0FF;">[ DONE ] Access granted. Flatline avoided.</span>
+</pre>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## ⚡ `ARSENAL` // TECH STACK
+## 🟡 `DISASSEMBLY` // ice breaker
 
-### 🗡️ **Offensive & Low-Level**
+<div>
+
+<table width="100%" style="border-collapse: collapse; border: 2px solid #00F0FF; border-radius: 4px;">
+<tr style="background: #0D0D0D;">
+<td style="border: 1px solid #00F0FF; padding: 12px; color: #FCEF00; font-family: monospace; font-size: 12px;">; INFINITYPAIIN · Reversing specialist · Night City</td>
+</tr>
+<tr style="background: #0D0D0D;">
+<td style="border: 1px solid #00F0FF; padding: 12px; font-family: monospace; font-size: 12px;">
+<pre style="margin:0;">
+<span style="color:#6a9955;">   0x00401234</span>  <span style="color:#00F0FF;">push   rbp</span>
+<span style="color:#6a9955;">   0x00401235</span>  <span style="color:#00F0FF;">mov    rbp, rsp</span>
+<span style="color:#6a9955;">   0x00401238</span>  <span style="color:#00F0FF;">sub    rsp, 0x20</span>
+<span style="color:#6a9955;">   0x0040123c</span>  <span style="color:#FCEF00;">mov    rax, qword [obj.flag]</span>
+<span style="color:#6a9955;">   0x00401243</span>  <span style="color:#00F0FF;">mov    rdi, rax</span>
+<span style="color:#6a9955;">   0x00401246</span>  <span style="color:#FF2A6D;">call   sym.imp.decode</span>
+<span style="color:#6a9955;">   0x0040124b</span>  <span style="color:#00F0FF;">mov    eax, 0</span>
+<span style="color:#6a9955;">   0x00401250</span>  <span style="color:#00F0FF;">leave</span>
+<span style="color:#6a9955;">   0x00401251</span>  <span style="color:#00F0FF;">ret</span>
+</pre>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔷 `CHROMED SKILLS` // cyberware
 
 ```bash
-santacrz@kali:~$ ls -la /opt/arsenal/
+> EQUIPPED // OFFENSIVE · REVERSING · ASM
 ```
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+<table width="100%">
+<tr>
+<td width="50%" style="vertical-align: top;">
 
-### 🛡️ **Web & Backend**
+<div style="border: 2px solid #FF2A6D; border-radius: 4px; padding: 14px; background: #0D0D0D;">
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**<span style="color:#FCEF00;">OFFENSIVE · REVERSING · ASM</span>**
 
-### 🎯 **Security & CTF**
+<pre style="font-size: 12px; margin: 0;">
+<span style="color:#00F0FF;">[████████████████████░]</span> <span style="color:#FCEF00;">Pwn ...................... 95%</span>
+<span style="color:#00F0FF;">[████████████████████░]</span> <span style="color:#FF2A6D;">Reversing ................ 92%</span> ◀ specialist
+<span style="color:#00F0FF;">[████████████████████░]</span> <span style="color:#FF2A6D;">Assembly (x86/ARM) ........ 90%</span> ◀ specialist
+<span style="color:#00F0FF;">[████████████████████░]</span> <span style="color:#FCEF00;">C ........................ 90%</span>
+<span style="color:#00F0FF;">[██████████████████░░░]</span> <span style="color:#00F0FF;">GDB / radare2 / Ghidra .... 88%</span>
+<span style="color:#00F0FF;">[██████████████████░░░]</span> <span style="color:#FCEF00;">Exploit dev .............. 85%</span>
+<span style="color:#00F0FF;">[██████████████████░░░]</span> <span style="color:#FCEF00;">Bash ..................... 85%</span>
+</pre>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-CC342D?style=for-the-badge&logo=gnu&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+</div>
 
----
+</td>
+<td width="50%" style="vertical-align: top;">
 
-## 📊 `SYSTEM METRICS`
+<div style="border: 2px solid #00F0FF; border-radius: 4px; padding: 14px; background: #0D0D0D;">
+
+**<span style="color:#00F0FF;">WEB & BACKEND</span>**
+
+<pre style="font-size: 12px; margin: 0;">
+<span style="color:#00F0FF;">[██████████████████░░░]</span> <span style="color:#FCEF00;">Python ................... 88%</span>
+<span style="color:#00F0FF;">[████████████████░░░░░]</span> <span style="color:#00F0FF;">Django ................... 80%</span>
+<span style="color:#00F0FF;">[██████████████████░░░]</span> <span style="color:#FCEF00;">React / Next.js .......... 82%</span>
+<span style="color:#00F0FF;">[████████████████░░░░░]</span> <span style="color:#00F0FF;">Node.js .................. 75%</span>
+<span style="color:#00F0FF;">[██████████████████░░░]</span> <span style="color:#FCEF00;">PostgreSQL ................ 85%</span>
+<span style="color:#00F0FF;">[████████████████░░░░░]</span> <span style="color:#00F0FF;">Java ..................... 78%</span>
+</pre>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-```
-┌─[santacrz@matrix]─[~]
-└──╼ $ cat /proc/github_stats
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=SanTacrZ&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanTacrZ&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41&stroke=00ff41&currStreakNum=00ff41&sideNums=00ff41&sideLabels=00ff41&dates=00ff41&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTacrZ&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=00ff41&border_color=00ff41&hide_border=true" />
+**<span style="color:#FCEF00;">TOOLCHAIN</span>** <span style="color:#6a9955;">//</span>  
+`ASM` `C` `Python` `GDB` `radare2` `Ghidra` `Django` `React` `Next.js` `PostgreSQL` `Docker` `Kali`
 
 </div>
 
 ---
 
-## 🏴‍☠️ `CTF SQUAD` // ch0wn3rs
+## ⚡ `CREW LINK` // ch0wn3rs
 
 ```bash
-santacrz@matrix:~$ grep -r "FLAG" /var/log/ctf/
+> CONNECTING TO CREW NETWORK...
+> LINK ESTABLISHED: ch0wn3rs
 ```
 
 <div align="center">
 
-[![ch0wn3rs](https://img.shields.io/badge/ch0wn3rs-Elite%20Cybersecurity%20Club-00ff41?style=for-the-badge)](https://ch0wn3rs.ninja/)
-[![CTFtime](https://img.shields.io/badge/CTFtime-Ch0wn3rs_Team-00ff41?style=for-the-badge)](https://ctftime.org/team/408704)
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320" alt="access" />
 
-<a href="https://ctftime.org/team/408704/" target="_blank" rel="noopener"><img src="https://ctftime.org/static/img/s/32x32.png" width="32" height="32" alt="Ch0wn3rs on CTFtime"/></a>
+**<span style="color:#FCEF00;">ch0wn3rs</span>** <span style="color:#6a9955;">//</span> *Elite Cybersecurity Club*
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SanTacrZ)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/SanTacrZ)
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-00599C?style=for-the-badge&logo=ctf&logoColor=white)](https://picoctf.org/)
+[![CTFtime](https://img.shields.io/badge/CTFtime-Ch0wn3rs_%23408704-00F0FF?style=for-the-badge&labelColor=0D0D0D)](https://ctftime.org/team/408704)
+[![Website](https://img.shields.io/badge/Website-ch0wn3rs.ninja-FCEF00?style=for-the-badge&labelColor=0D0D0D)](https://ch0wn3rs.ninja/)
+<a href="https://ctftime.org/team/408704/"><img src="https://ctftime.org/static/img/s/32x32.png" width="28" height="28" alt="CTFtime"/></a>
 
 </div>
 
+<div style="border: 2px solid #FCEF00; border-radius: 4px; padding: 14px; background: #0D0D0D;">
+
 ```
-┌─[santacrz@matrix]─[~]$ curl -s https://ctftime.org/team/408704/
 ┌─────────────────────────────────────────────────────────────────┐
-│ CTFtime · Ch0wn3rs (https://ch0wn3rs.ninja/)                     │
+│ CREW STATUS .................................................   │
 ├─────────────────────────────────────────────────────────────────┤
-│ 2026 — Overall: #65  ·  45.925 pts  ·  Country: #1               │
+│ 2026  Overall: #65  │  45.925 pts  │  Country: #1               │
+│ Gigs: Nullcon Goa HackIM 2026 (#12) · PascalCTF 2026 (#63)     │
 ├─────────────────────────────────────────────────────────────────┤
-│ Events: Nullcon Goa HackIM 2026 (#12) · PascalCTF 2026 (#63)    │
-│ Members: Fu11shoot · 02loveslollipop · Neyi21 · hrcamilo11 ·   │
-│          INFINITYPAIIN                                           │
+│ ROSTER: Fu11shoot · 02loveslollipop · Neyi21 · hrcamilo11 ·    │
+│         INFINITYPAIIN (Pwn / Reversing · Assembly)              │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-```
-┌──────────────────────────────────────────────────────────┐
-│ ACHIEVEMENTS UNLOCKED:                                   │
-├──────────────────────────────────────────────────────────┤
-│ [✓] Pwn Specialist — binary exploitation & memory        │
-│ [✓] CTF Player @ ch0wn3rs · CTFtime team #408704        │
-│ [◐] Reversing — in progress, always improving           │
-│ [✓] Web stack: Django + React + Next.js                 │
-│ [✓] Low-level: C — finance agents & exploit dev         │
-│ [✓] Databases: PostgreSQL                               │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
-## 💀 `ACTIVE PROJECTS` // CURRENT OPERATIONS
-
-```bash
-santacrz@matrix:~$ ps aux | grep santacrz
-```
-
-### 🔥 **Live Projects**
-
-- 🎯 **Pwn & Reversing** — CTF challenges, writeups, exploit dev
-- 🕸️ **Web** — Django + React / Next.js apps
-- 📈 **Finance agents** — C-based bots for brokers
-- 🎮 **CTF with ch0wn3rs** — team competitions and learning
-
-*(Replace `REPO_NAME` below with your actual repo for a pinned card.)*
+</div>
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanTacrZ&repo=SanTacrZ&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=00ff41&hide_border=true)](https://github.com/SanTacrZ/SanTacrZ)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SanTacrZ)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/SanTacrZ)
 
 </div>
 
 ---
 
-## 🌐 `NETWORK CONNECTIONS`
+## 📊 `STATS` // lifepath
 
 ```bash
-santacrz@matrix:~$ netstat -tuln | grep ESTABLISHED
+> PULLING REPO STATS...
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SanTacrZ&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FCEF00&text_color=00F0FF&icon_color=FF2A6D&border_color=FCEF00&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanTacrZ&theme=dark&background=0D0D0D&ring=FCEF00&fire=FF2A6D&currStreakLabel=FCEF00&border=FCEF00&currStreakNum=00F0FF&sideNums=00F0FF&sideLabels=FCEF00&dates=6a9955&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTacrZ&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FCEF00&text_color=00F0FF&border_color=FF2A6D&hide_border=false" />
+
+</div>
+
+---
+
+## 🔶 `ACTIVE GIGS`
+
+```bash
+> JOBS IN PROGRESS
+```
+
+<table style="border: 2px solid #00F0FF; border-radius: 4px; border-collapse: collapse;">
+<tr style="background: #0D0D0D;">
+<td style="border: 1px solid #FCEF00; padding: 10px 14px; color: #FCEF00; font-weight: bold;">PID</td>
+<td style="border: 1px solid #FCEF00; padding: 10px 14px; color: #FCEF00; font-weight: bold;">GIG</td>
+<td style="border: 1px solid #FCEF00; padding: 10px 14px; color: #00F0FF;">STATUS</td>
+</tr>
+<tr style="background: #0D0D0D;">
+<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FF2A6D;">1337</td>
+<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #00F0FF;">Pwn & Reversing (ASM)</td>
+<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FCEF00;">ACTIVE</td>
+</tr>
+<tr style="background: #0D0D0D;">
+<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FF2A6D;">31337</td>
+<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #00F0FF;">CTF · ch0wn3rs</td>
+<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FCEF00;">ACTIVE</td>
+</tr>
+<tr style="background: #0D0D0D;">
+<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FF2A6D;">8080</td>
+<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #00F0FF;">Django + React / Next</td>
+<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FCEF00;">ACTIVE</td>
+</tr>
+<tr style="background: #0D0D0D;">
+<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FF2A6D;">9000</td>
+<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #00F0FF;">Finance agents (C)</td>
+<td style="border: 1px solid #00F0FF; padding: 8px 14px; color: #FCEF00;">ACTIVE</td>
+</tr>
+</table>
+
+---
+
+## 🌐 `NIGHT CITY CONNECTIONS`
+
+```bash
+> CONTACTS // NETWORK
 ```
 
 <div align="center">
@@ -223,155 +286,59 @@ santacrz@matrix:~$ netstat -tuln | grep ESTABLISHED
 
 ---
 
-## 🎓 `CREDENTIALS` // IN PROGRESS
+## 💬 `CODE OF THE STREET`
 
-```bash
-santacrz@matrix:~$ cat /var/log/credentials.txt
+```javascript
+// Night City · 2077
+const motto = [
+    "Break it before they do.",
+    "Security through obscurity is no security.",
+    "We are the glitch in the system.",
+    "Never stop fighting for what you believe in."
+];
 ```
 
-```
-┌─────────────────────────────────────────────┐
-│ STATUS: Last year CS student                │
-├─────────────────────────────────────────────┤
-│ → Pwn & Binary Exploitation                 │
-│ → Web: Django, React, Next.js               │
-│ → Low-level: C (finance agents, exploits)   │
-│ → Databases: PostgreSQL                    │
-│ → CTF: ch0wn3rs                             │
-└─────────────────────────────────────────────┘
-```
+> **<span style="color:#FCEF00;">"In a world of 1s and 0s, we are the exception handlers."</span>**  
+> <span style="color:#00F0FF;">— INFINITYPAIIN</span>
 
 ---
 
-## 📝 `SECURITY RESEARCH` // WRITEUPS & BLOG
-
-```bash
-santacrz@matrix:~$ tail -f /var/log/blog.log
-```
-
-<!-- BLOG-POST-LIST:START -->
-- 🔴 Pwn writeups & CTF solutions
-- 🔓 Reversing notes and learning path
-- 🕵️ Django & React security practices
-- ⚡ Finance agents & C development
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 `PHILOSOPHY`
-
-```python
-#!/usr/bin/env python3
-
-class HackerMindset:
-    def __init__(self):
-        self.principles = [
-            "Break it before someone else does",
-            "Security through obscurity is no security",
-            "Trust, but verify (and then hack it anyway)",
-            "The only secure system is one that's powered off",
-            "Curiosity didn't kill the cat, it made it a hacker"
-        ]
-    
-    def get_motto(self):
-        return "root@matrix:~# echo 'We are the glitch in the system'"
-
-hacker = HackerMindset()
-print(hacker.get_motto())
-```
-
-> **"In a world of 1s and 0s, we are the exception handlers."**  
-> — **INFINITYPAIIN** · SanTacrZ
-
----
-
-## 🔥 `CONTRIBUTION GRAPH`
-
-```bash
-santacrz@matrix:~$ git log --graph --oneline --all
-```
+## 📈 `CONTRIBUTION GRAPH`
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanTacrZ&theme=github-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanTacrZ&theme=github-dark&bg_color=0D0D0D&color=FCEF00&line=00F0FF&point=FF2A6D&area=true&hide_border=false)
 
 </div>
 
 ---
 
-## 💻 `CODE WARFARE STATS`
+## ⚠️ `WARNING` // unauthorized access
 
-<div align="center">
+<div style="border: 2px solid #FF2A6D; border-radius: 4px; padding: 16px; background: #0D0D0D;">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   PWN SKILLS            ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱  95%      │
-│   REVERSING (learning)  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱  45%      │
-│   WEB STACK             ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  80%      │
-│   C / LOW-LEVEL         ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  90%      │
-│   COFFEE CONSUMED       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  100%     │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=SanTacrZ&color=00ff41&style=for-the-badge)
-
-</div>
-
----
-
-## 🚨 `SECURITY NOTICE`
-
-```
+<pre style="margin:0; color:#FCEF00;">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  ⚠️  WARNING: AUTHORIZED PERSONNEL ONLY             ┃
-┃                                                      ┃
-┃  This GitHub profile contains highly classified     ┃
-┃  information. Unauthorized access will be met with  ┃
-┃  extreme prejudice and a pull request.              ┃
-┃                                                      ┃
-┃  If you've made it this far, you're probably cool.  ┃
-┃  Want to collaborate? Hit me up! 🤝                 ┃
+┃  ⚡ AUTHORIZED PERSONNEL ONLY  ⚡                     ┃
+┃  Unauthorized access → flatline. Just kidding. PR.  ┃
+┃  You made it this far? Preem. Let's collab, choomba.┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
----
-
-## 🎮 `GAME OVER?`
-
-```
-                 ____________________
-                /                    \
-               |  NEVER GIVE UP THE  |
-               |   HACK CONTINUES... |
-                \____________________/
-                        |
-                    ___/\___
-                   /   o o  \
-                  |    ∆    |
-                  |\_______/|
-                   \_______/
-```
-
-<div align="center">
-
-```bash
-santacrz@matrix:~$ shutdown -h now
-```
-
-**Thanks for visiting. Stay curious, stay ethical, stay pwning.** 🚀  
-
-**ch0wn3rs · [ch0wn3rs.ninja](https://ch0wn3rs.ninja/)**
-
-**[ EOF ]**
+</pre>
 
 </div>
 
----
+<div align="center">
+
+**Wake up, Samurai. Stay curious. Stay ethical. Stay pwning.**
+
+**ch0wn3rs** · [ch0wn3rs.ninja](https://ch0wn3rs.ninja/) · [CTFtime](https://ctftime.org/team/408704)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SanTacrZ&color=FCEF00&style=flat-square)
+
+</div>
 
 <div align="center">
 
-![Matrix SVG](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:003B00&height=100&section=footer&text=The%20Matrix%20Has%20You&fontSize=20&fontColor=00ff41&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FCEF00,50:00F0FF,100:FF2A6D&height=90&section=footer&text=NIGHT+CITY+2077&fontSize=18&fontColor=0D0D0D&animation=twinkling)
 
 </div>
