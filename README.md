@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
@@ -18,6 +20,12 @@
 ┌─[santacrz@localhost]─[~]
 └──╼ $ cat /etc/profile
 ```
+
+</div>
+
+---
+
+<div align="center">
 
 ## `[0x00]` **// SYSTEM_INFO**
 
@@ -40,7 +48,11 @@
 └──╼ $ ls -la /opt/skills/
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `[0x01]` **// OFFENSIVE_SECURITY**
 
@@ -56,18 +68,22 @@
 ║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  Cryptography ...................... 75%║
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
-
-[+] Tools: GDB, radare2, Ghidra, IDA, pwntools, Burp Suite
-[+] Focus: OWASP Top 10, Buffer Overflows, ROP Chains, Format Strings
-[+] Always: Reading CVEs, analyzing malware, learning new attack vectors
 ```
+
+**[+] Tools:** `GDB` `radare2` `Ghidra` `IDA` `pwntools` `Burp Suite`  
+**[+] Focus:** OWASP Top 10 • Buffer Overflows • ROP Chains • Format Strings  
+**[+] Always:** Reading CVEs • Analyzing malware • Learning new attack vectors
 
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ cat /opt/skills/development.txt
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `[0x02]` **// DEVELOPMENT_STACK**
 
@@ -76,7 +92,7 @@
 ║                   BACKEND DEVELOPMENT                          ║
 ╠════════════════════════════════════════════════════════════════╣
 ║                                                                ║
-║   [████████████████████░]  Python + Django ............... 92% ║
+║   [█████████████���██████░]  Python + Django ............... 92% ║
 ║   [██████████████████░░░]  ASP.NET Core .................. 85% ║
 ║   [█████████████████░░░░]  C# ............................. 83% ║
 ║   [███████████████░░░░░░]  Node.js (Express) .............. 75% ║
@@ -104,7 +120,11 @@
 └──╼ $ cat /etc/ch0wn3rs/team.info
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `[0x03]` **// CH0WN3RS_CREW**
 
@@ -121,7 +141,9 @@
 ║                     Elite Cybersecurity Club & CTF Team                       ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
+```
 
+```
 ┌──[ TEAM STATS ]────────────────────────────────────────────────────────────┐
 │                                                                            │
 │  > CTFtime Ranking:  #65 Global (2026)                                    │
@@ -130,7 +152,9 @@
 │  > Status:           [ACTIVE]                                             │
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
+```
 
+```
 ┌──[ RECENT ACHIEVEMENTS ]───────────────────────────────────────────────────┐
 │                                                                            │
 │  [✓] Nullcon Goa HackIM 2026 .......................... Rank #12          │
@@ -138,8 +162,10 @@
 │  [>] Continuously competing in international CTFs                         │
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
+```
 
-┌──[ CORE TEAM ]─────────────────────────────���───────────────────────────────┐
+```
+┌──[ CORE TEAM ]─────────────────────────────────────────────────────────────┐
 │                                                                            │
 │  ┌─────────────────┬──────────────────────────────────────────────────┐   │
 │  │ HANDLE          │ SPECIALIZATION                                   │   │
@@ -152,7 +178,9 @@
 │  └─────────────────┴──────────────────────────────────────────────────┘   │
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
+```
 
+```
 ┌──[ CONNECT ]───────────────────────────────────────────────────────────────┐
 │                                                                            │
 │  > Website:  https://ch0wn3rs.ninja                                       │
@@ -166,7 +194,11 @@
 └──╼ $ ps aux | grep projects
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `[0x04]` **// CURRENT_PROJECTS**
 
@@ -189,7 +221,11 @@
 └──╼ $ cat /home/santacrz/.learning_goals
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `[0x05]` **// LEARNING_MODE**
 
@@ -218,42 +254,67 @@
 
 ```
 ┌─[santacrz@localhost]─[~]
-└──╼ $ neofetch --stats github
+└──╼ $ cat /proc/github/stats
 ```
+
+</div>
 
 ---
 
-## `[0x06]` **// GITHUB_STATS**
-
 <div align="center">
+
+## `[0x06]` **// GITHUB_METRICS**
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
 ║                     SYSTEM STATISTICS                          ║
-╚═════════════════════════════════════════��══════════════════════╝
+╚════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanTacrZ&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&hide_border=false" alt="GitHub Stats" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SanTacrZ&show_icons=true&theme=radical&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&border_radius=10" alt="GitHub Stats" width="495"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanTacrZ&theme=radical&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&border=00ff00&currStreakNum=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=00ff00&border_radius=10" alt="GitHub Streak" width="495"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTacrZ&layout=compact&theme=radical&bg_color=000000&title_color=00ff00&text_color=00ff00&border_color=00ff00&border_radius=10" alt="Top Languages" width="495"/>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanTacrZ&theme=chartreuse-dark&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&border=00ff00&currStreakNum=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=00ff00" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanTacrZ&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00ff00&text_color=00ff00&border_color=00ff00" alt="Top Languages" />
-
-</div>
+```
+╔════════════════════════════════════════════════════════════════╗
+║  [+] Total Commits:    Classified                              ║
+║  [+] Total PRs:        Classified                              ║
+║  [+] Total Issues:     Classified                              ║
+║  [+] Contributions:    Always learning, always building        ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ cat /etc/social.conf
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `[0x07]` **// NETWORK_CONNECTIONS**
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║  PROTOCOL     ADDRESS                              STATUS                 ║
-╠═════════════════════════════════════���═════════════════════════════════════╣
+╠═══════════════════════════════════════════════════════════════════════════╣
 ║  HTTPS        github.com/SanTacrZ                  [ESTABLISHED]          ║
 ║  HTTPS        linkedin.com/sebastian-santacruz     [ESTABLISHED]          ║
 ║  HTTPS        ctftime.org/team/408704              [ESTABLISHED]          ║
@@ -262,8 +323,6 @@
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00)](https://github.com/SanTacrZ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://www.linkedin.com/in/sebastian-santacruz-060227113)
 [![CTFtime](https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://ctftime.org/team/408704)
@@ -271,14 +330,16 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff00)](https://tryhackme.com/p/SanTacrZ)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://app.hackthebox.com/profile/SanTacrZ)
 
-</div>
-
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ cat /home/santacrz/.signature
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `[0x08]` **// SIGNATURE**
 
@@ -300,8 +361,6 @@
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
@@ -321,12 +380,6 @@
 
 > Connection closed.
 ```
-
-</div>
-
----
-
-<div align="center">
 
 **[ch0wn3rs.ninja](https://ch0wn3rs.ninja)** • **[CTFtime](https://ctftime.org/team/408704)** • **[2026]**
 
