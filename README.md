@@ -3,25 +3,36 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
-║    ██████╗  █████╗ ███╗   ██╗████████╗ █████╗  ██████╗██████╗ ███████╗      ║
-║   ██╔════╝ ██╔══██╗████╗  ██║╚══██╔══╝██╔══██╗██╔════╝██╔══██╗╚══███╔╝      ║
-║   ╚█████╗  ███████║██╔██╗ ██║   ██║   ███████║██║     ██████╔╝  ███╔╝       ║
-║    ╚═══██╗ ██╔══██║██║╚██╗██║   ██║   ██╔══██║██║     ██╔══██╗ ███╔╝        ║
-║   ██████╔╝ ██║  ██║██║ ╚████║   ██║   ██║  ██║╚██████╗██║  ██║███████╗      ║
-║   ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝      ║
+║    ██████╗  █████╗ ███╗   ██╗████████╗ █████╗  ██████╗██████╗ ███████╗        ║
+║   ██╔════╝ ██╔══██╗████╗  ██║╚══██╔══╝██╔══██╗██╔════╝██╔══██╗╚══███╔╝        ║
+║   ╚█████╗  ███████║██╔██╗ ██║   ██║   ███████║██║     ██████╔╝  ███╔╝         ║
+║    ╚═══██╗ ██╔══██║██║╚██╗██║   ██║   ██╔══██║██║     ██╔══██╗ ███╔╝          ║
+║   ██████╔╝ ██║  ██║██║ ╚████║   ██║   ██║  ██║╚██████╗██║  ██║███████╗        ║
+║   ╚═════╝  ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝        ║
 ║                                                                               ║
-║                    > INFINITYPAIIN | CO-FOUNDER @ch0wn3rs <                  ║
-║                  > AppSec • Web Security • Pwn • Reversing <                 ║
+║                    > INFINITYPAIIN | CO-FOUNDER @ch0wn3rs <                   ║
+║                  > AppSec • Web Security • Pwn • Reversing <                  ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║ 
+║  [!] No vayas detrás de mí,                                       ║
+║  [!] Tal vez yo no sepa liderar.                                  ║
+║  [!] No vayas adelante,                                           ║
+║  [!] tal vez yo no quiera seguirte                                ║
+║  [>] Ve a mi lado                                                 ║
+║  [>] para poder caminar juntos.                                   ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 
+```
+</div>
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ cat /etc/profile
 ```
 
-</div>
+
 
 ---
 
@@ -33,22 +44,22 @@
 ╔═══════════════════════════════════════════════════════════════════╗
 ║  USER:     INFINITYPAIIN                                          ║
 ║  HANDLE:   SanTacrZ                                               ║
-║  ROLE:     Security Researcher & Backend Developer               ║
-║  STATUS:   [ LEARNING MODE ENABLED ]                             ║
-║  CREW:     ch0wn3rs (Co-Founder)                                 ║
-║  UPTIME:   365+ days pwning & coding                             ║
+║  ROLE:     Security Researcher & Backend Developer                ║
+║  STATUS:   [ LEARNING MODE ENABLED ]                              ║
+║  CREW:     ch0wn3rs (Co-Founder)                                  ║
+║  UPTIME:   365+ days pwning & coding                              ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 > *"Constantly pushing boundaries, breaking systems (ethically),*  
 > *and building secure software. Always hungry to learn more."*
-
+</div>
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ ls -la /opt/skills/
 ```
 
-</div>
+
 
 ---
 
@@ -73,13 +84,13 @@
 **[+] Tools:** `GDB` `radare2` `Ghidra` `IDA` `pwntools` `Burp Suite`  
 **[+] Focus:** OWASP Top 10 • Buffer Overflows • ROP Chains • Format Strings  
 **[+] Always:** Reading CVEs • Analyzing malware • Learning new attack vectors
-
+</div>
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ cat /opt/skills/development.txt
 ```
 
-</div>
+
 
 ---
 
@@ -88,39 +99,39 @@
 ## `[0x02]` **// DEVELOPMENT_STACK**
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║                   BACKEND DEVELOPMENT                          ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║   [█████████████���██████░]  Python + Django ............... 92% ║
-║   [██████████████████░░░]  ASP.NET Core .................. 85% ║
+╔═════════════════════════════════════════════════════════════════╗
+║                   BACKEND DEVELOPMENT                           ║
+╠═════════════════════════════════════════════════════════════════╣
+║                                                                 ║
+║   [████████████████████░]  Python + Django ............... 92%  ║
+║   [██████████████████░░░]  ASP.NET Core .................. 85%  ║
 ║   [█████████████████░░░░]  C# ............................. 83% ║
 ║   [███████████████░░░░░░]  Node.js (Express) .............. 75% ║
-║                                                                ║
-╠════════════════════════════════════════════════════════════════╣
-║                   MOBILE & FRONTEND                            ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║   [██████████████████░░░]  Flutter + Dart ................ 85% ║
-║   [█████████████████░░░░]  React / Next.js ............... 80% ║
-║   [████████████████░░░░░]  HTML/CSS/JavaScript ........... 78% ║
-║                                                                ║
-╠════════════════════════════════════════════════════════════════╣
-║                   DATABASES & TOOLS                            ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║   PostgreSQL  •  MySQL  •  SQLite  •  MongoDB                  ║
-║   Docker  •  Git  •  Linux  •  REST APIs  •  GraphQL           ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+║                                                                 ║
+╠═════════════════════════════════════════════════════════════════╣
+║                   MOBILE & FRONTEND                             ║
+╠═════════════════════════════════════════════════════════════════╣
+║                                                                 ║
+║   [██████████████████░░░]  Flutter + Dart ................ 85%  ║
+║   [█████████████████░░░░]  React / Next.js ............... 80%  ║
+║   [████████████████░░░░░]  HTML/CSS/JavaScript ........... 78%  ║
+║                                                                 ║
+╠═════════════════════════════════════════════════════════════════╣
+║                   DATABASES & TOOLS                             ║
+╠═════════════════════════════════════════════════════════════════╣
+║                                                                 ║
+║   PostgreSQL  •  MySQL  •  SQLite  •  MongoDB                   ║
+║   Docker  •  Git  •  Linux  •  REST APIs  •  GraphQL            ║
+║                                                                 ║
+╚═════════════════════════════════════════════════════════════════╝
 ```
-
+</div>
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ cat /etc/ch0wn3rs/team.info
 ```
 
-</div>
+
 
 ---
 
@@ -131,12 +142,12 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
-║    ██████╗██╗  ██╗ ██████╗ ██╗    ██╗███╗   ██╗ ██████╗ ██████╗ ███████╗    ║
-║   ██╔════╝██║  ██║██╔═████╗██║    ██║████╗  ██║╚════██╗██╔══██╗██╔════╝    ║
-║   ██║     ███████║██║██╔██║██║ █╗ ██║██╔██╗ ██║ █████╔╝██████╔╝███████╗    ║
-║   ██║     ██╔══██║████╔╝██║██║███╗██║██║╚██╗██║ ╚═══██╗██╔══██╗╚════██║    ║
-║   ╚██████╗██║  ██║╚██████╔╝╚███╔███╔╝██║ ╚████║██████╔╝██║  ██║███████║    ║
-║    ╚═════╝╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝    ║
+║    ██████╗██╗  ██╗ ██████╗ ██╗    ██╗███╗   ██╗ ██████╗ ██████╗ ███████╗      ║
+║   ██╔════╝██║  ██║██╔═████╗██║    ██║████╗  ██║╚════██╗██╔══██╗██╔════╝       ║
+║   ██║     ███████║██║██╔██║██║ █╗ ██║██╔██╗ ██║ █████╔╝██████╔╝███████╗       ║
+║   ██║     ██╔══██║████╔╝██║██║███╗██║██║╚██╗██║ ╚═══██╗██╔══██╗╚════██║       ║
+║   ╚██████╗██║  ██║╚██████╔╝╚███╔███╔╝██║ ╚████║██████╔╝██║  ██║███████║       ║
+║    ╚═════╝╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝       ║
 ║                                                                               ║
 ║                     Elite Cybersecurity Club & CTF Team                       ║
 ║                                                                               ║
@@ -146,10 +157,10 @@
 ```
 ┌──[ TEAM STATS ]────────────────────────────────────────────────────────────┐
 │                                                                            │
-│  > CTFtime Ranking:  #65 Global (2026)                                    │
-│  > Total Points:     45,925 pts                                           │
-│  > Country Rank:     #1                                                   │
-│  > Status:           [ACTIVE]                                             │
+│  > CTFtime Ranking:  #65 Global (2026)                                     │
+│  > Total Points:     45,925 pts                                            │
+│  > Country Rank:     #1                                                    │
+│  > Status:           [ACTIVE]                                              │
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -157,9 +168,11 @@
 ```
 ┌──[ RECENT ACHIEVEMENTS ]───────────────────────────────────────────────────┐
 │                                                                            │
-│  [✓] Nullcon Goa HackIM 2026 .......................... Rank #12          │
-│  [✓] PascalCTF 2026 ................................... Rank #63          │
-│  [>] Continuously competing in international CTFs                         │
+│  [✓] TaipanByte’s Chart CTF ........................... Rank #34           │ 
+│  [✓] 0xFUN CTF 2026 ................................... Rank #291          │
+│  [✓] Nullcon Goa HackIM 2026 .......................... Rank #12           │
+│  [✓] PascalCTF 2026 ................................... Rank #63           │
+│  [>] Continuously competing in international CTFs                          │
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -167,15 +180,15 @@
 ```
 ┌──[ CORE TEAM ]─────────────────────────────────────────────────────────────┐
 │                                                                            │
-│  ┌─────────────────┬──────────────────────────────────────────────────┐   │
-│  │ HANDLE          │ SPECIALIZATION                                   │   │
-│  ├─────────────────┼──────────────────────────────────────────────────┤   │
-│  │ INFINITYPAIIN   │ Co-Founder • Pwn • Reversing • AppSec           │   │
-│  │ Fu11shoot       │ Web Exploitation • Forensics                     │   │
-│  │ 02loveslollipop │ Cryptography • Steganography                     │   │
-│  │ Neyi21          │ Binary Exploitation • OSINT                      │   │
-│  │ hrcamilo11      │ Network Security • Reverse Engineering           │   │
-│  └─────────────────┴──────────────────────────────────────────────────┘   │
+│  ┌─────────────────┬──────────────────────────────────────────────────┐    │
+│  │ HANDLE          │ SPECIALIZATION                                   │    │
+│  ├─────────────────┼──────────────────────────────────────────────────┤    │
+│  │ INFINITYPAIIN   │ Co-Founder • Pwn • Reversing • AppSec            │    │
+│  │ Fu11shoot       │ Web Exploitation • Forensics                     │    │
+│  │ 02loveslollipop │ Cryptography • Steganography                     │    │
+│  │ Neyi21          │ Binary Exploitation • OSINT                      │    │
+│  │ hrcamilo11      │ Network Security • Reverse Engineering           │    │
+│  └─────────────────┴──────────────────────────────────────────────────┘    │
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -188,13 +201,13 @@
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
-
+</div>
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ ps aux | grep projects
 ```
 
-</div>
+
 
 ---
 
@@ -215,13 +228,13 @@
 ║  7890   ch0wn3rs CTF Platform           Web/Security      [DEVELOPMENT]    ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
-
+</div>
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ cat /home/santacrz/.learning_goals
 ```
 
-</div>
+
 
 ---
 
@@ -251,13 +264,13 @@
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
-
+</div>
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ cat /proc/github/stats
 ```
 
-</div>
+
 
 ---
 
@@ -297,13 +310,13 @@
 ║  [+] Contributions:    Always learning, always building        ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
-
+</div>
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ cat /etc/social.conf
 ```
 
-</div>
+
 
 ---
 
@@ -326,16 +339,14 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00)](https://github.com/SanTacrZ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://www.linkedin.com/in/sebastian-santacruz-060227113)
 [![CTFtime](https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://ctftime.org/team/408704)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff00)](https://t.me/SanTacrZ)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff00)](https://tryhackme.com/p/SanTacrZ)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://app.hackthebox.com/profile/SanTacrZ)
-
+</div>
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ cat /home/santacrz/.signature
 ```
 
-</div>
+
 
 ---
 
@@ -346,17 +357,17 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║   ┌─────────────────────────────────────────────────────────────────┐   ║
-║   │                                                                 │   ║
-║   │  "Break it. Learn it. Build it better. Secure it."             │   ║
-║   │                                                                 │   ║
-║   │  Security through understanding, not obscurity.                │   ║
-║   │  Forever learning, forever hacking, forever building.          │   ║
-║   │                                                                 │   ║
-║   │  -- INFINITYPAIIN / SanTacrZ                                   │   ║
-║   │     Co-Founder @ch0wn3rs                                       │   ║
-║   │                                                                 │   ║
-║   └─────────────────────────────────────────────────────────────────┘   ║
+║   ┌─────────────────────────────────────────────────────────────────┐     ║
+║   │                                                                 │     ║
+║   │  "Break it. Learn it. Build it better. Secure it."              │     ║
+║   │                                                                 │     ║
+║   │  Security through understanding, not obscurity.                 │     ║
+║   │  Forever learning, forever hacking, forever building.           │     ║
+║   │                                                                 │     ║
+║   │  -- INFINITYPAIIN / SanTacrZ                                    │     ║
+║   │     Co-Founder @ch0wn3rs                                        │     ║
+║   │                                                                 │     ║
+║   └─────────────────────────────────────────────────────────────────┘     ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -364,23 +375,23 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║  [!] WARNING: This profile is monitored by security systems      ║
-║  [!] All activities are logged for research purposes             ║
-║  [>] Want to collaborate? Pull requests are welcome!             ║
-║  [>] Interested in security? Join us at ch0wn3rs.ninja          ║
+║  [!] WARNING: This profile is monitored by security systems       ║
+║  [!] All activities are logged for research purposes              ║
+║  [>] Want to collaborate? Pull requests are welcome!              ║
+║  [>] Interested in security? Join us at ch0wn3rs.ninja            ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SanTacrZ&color=00ff00&style=flat-square&label=VISITORS)
 
+
+
+**[ch0wn3rs.ninja](https://ch0wn3rs.ninja)** • **[CTFtime](https://ctftime.org/team/408704)** • **[2026]**
+</div>
 ```
 ┌─[santacrz@localhost]─[~]
 └──╼ $ logout
 
 > Connection closed.
 ```
-
-**[ch0wn3rs.ninja](https://ch0wn3rs.ninja)** • **[CTFtime](https://ctftime.org/team/408704)** • **[2026]**
-
-</div>
